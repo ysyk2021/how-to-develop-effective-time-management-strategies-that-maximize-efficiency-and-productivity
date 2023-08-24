@@ -1,5 +1,3 @@
-Chapter 9: Managing Email and Communication
-===========================================
 
 In this chapter, we will explore effective strategies for managing email and communication to improve productivity and efficiency in the workplace.
 

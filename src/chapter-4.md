@@ -1,5 +1,3 @@
-Chapter 4: Setting SMART Goals
-==============================
 
 In this chapter, we will explore the concept of SMART goals and how they can help employees maximize efficiency and productivity in the workplace.
 

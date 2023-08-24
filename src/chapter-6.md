@@ -1,5 +1,3 @@
-Chapter 6: Overcoming Procrastination
-=====================================
 
 In this chapter, we will explore effective strategies for overcoming procrastination, which is a common challenge in achieving personal and professional goals.
 

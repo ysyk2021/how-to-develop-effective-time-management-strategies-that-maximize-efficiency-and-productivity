@@ -1,5 +1,3 @@
-Types of Interruptions and Distractions
-===========================================================================================
 
 Interruptions and distractions can be major obstacles to effective time management. They can disrupt workflow, decrease productivity, and lead to missed deadlines. In this chapter, we will discuss the types of interruptions and distractions that employees commonly face and provide strategies for managing them.
 

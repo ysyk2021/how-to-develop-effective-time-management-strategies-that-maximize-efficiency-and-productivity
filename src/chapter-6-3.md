@@ -1,5 +1,3 @@
-Strategies for Staying Focused
-=====================================================================
 
 In this chapter, we will explore strategies for overcoming procrastination and staying focused, which are essential in developing effective time management strategies that maximize efficiency and productivity for employees.
 

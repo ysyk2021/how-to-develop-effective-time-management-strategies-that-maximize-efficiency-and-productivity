@@ -1,5 +1,3 @@
-Identifying Time Wasters
-=======================================================
 
 Identifying time wasters is a critical step in effective time management. Time wasters are activities or tasks that consume time but don't add value to the organization. In this chapter, we will explore strategies for identifying time wasters so that employees can make adjustments to improve productivity.
 

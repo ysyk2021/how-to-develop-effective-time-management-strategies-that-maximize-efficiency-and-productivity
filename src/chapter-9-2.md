@@ -1,5 +1,3 @@
-Techniques for Effective Communication
-===================================================================================
 
 In this chapter, we will explore effective techniques for managing email and communication in the workplace. Effective communication is crucial in maximizing productivity and achieving personal and organizational goals.
 

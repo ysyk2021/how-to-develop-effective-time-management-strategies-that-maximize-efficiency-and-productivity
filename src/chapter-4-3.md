@@ -1,5 +1,3 @@
-Creating a Plan to Achieve Goals
-================================================================
 
 Effective time management requires setting goals and creating a plan to achieve them. However, not all goals are created equal. To maximize efficiency and productivity, it is important to set SMART goals. In this chapter, we will discuss the importance of setting SMART goals and provide strategies for creating a plan to achieve them.
 

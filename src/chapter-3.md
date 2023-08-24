@@ -1,5 +1,3 @@
-Chapter 3: Analyzing Time Use
-=============================
 
 In this chapter, we will explore effective strategies for analyzing time use, which is crucial in developing effective time management strategies.
 

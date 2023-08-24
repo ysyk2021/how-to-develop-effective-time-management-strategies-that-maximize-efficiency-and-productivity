@@ -1,5 +1,3 @@
-Batch Processing and Time Blocking
-=====================================================================
 
 In this chapter, we will explore two effective time-saving techniques: batch processing and time blocking. These techniques can help individuals increase productivity and efficiency in the workplace by optimizing time use.
 

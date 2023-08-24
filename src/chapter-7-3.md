@@ -1,5 +1,3 @@
-Techniques for Handling Unexpected Interruptions
-====================================================================================================
 
 In our fast-paced work environment, it can be difficult to stay focused on tasks when unexpected interruptions occur. These interruptions can come in the form of phone calls, emails, instant messages, or even colleagues stopping by your desk to chat. While some of these interruptions may be important, others can be a distraction from completing the work that needs to be done. In this chapter, we will explore techniques for managing interruptions and distractions to maximize productivity and efficiency.
 

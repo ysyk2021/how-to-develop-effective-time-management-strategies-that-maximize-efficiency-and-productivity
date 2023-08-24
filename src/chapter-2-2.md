@@ -1,5 +1,3 @@
-Common Misconceptions About Time Management
-=====================================================================================
 
 In this chapter, we will explore common misconceptions about time management and how they can negatively impact an employee's productivity and efficiency.
 

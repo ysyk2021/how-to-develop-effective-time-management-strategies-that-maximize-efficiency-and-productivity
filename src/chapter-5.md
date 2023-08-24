@@ -1,5 +1,3 @@
-Chapter 5: Creating Effective To-Do Lists
-=========================================
 
 In this chapter, we will explore effective strategies for creating to-do lists that can help employees maximize efficiency and productivity in the workplace.
 

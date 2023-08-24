@@ -1,5 +1,3 @@
-Tracking Time Use
-================================================
 
 To effectively manage time, it's important to understand how it's currently being used. One way to do this is by tracking time use. By analyzing time use, employees can identify areas where time is being wasted or spent inefficiently and make adjustments to improve productivity. In this chapter, we will explore strategies for tracking time use.
 

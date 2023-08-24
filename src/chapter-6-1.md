@@ -1,5 +1,3 @@
-Reasons for Procrastination
-==================================================================
 
 Procrastination is a common problem that affects many employees in the workplace. It can be caused by a variety of reasons, including fear, lack of motivation, and poor time management skills. In this chapter, we will explore some of the most common reasons for procrastination and discuss strategies for overcoming them.
 

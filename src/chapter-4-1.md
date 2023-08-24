@@ -1,5 +1,3 @@
-Defining SMART Goals
-====================================================
 
 In this chapter, we will explore the concept of SMART goals and their importance in effective time management. We will define each component of a SMART goal and provide examples.
 

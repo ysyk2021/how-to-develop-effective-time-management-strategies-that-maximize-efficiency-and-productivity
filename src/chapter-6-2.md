@@ -1,5 +1,3 @@
-How to Recognize and Overcome Procrastination
-====================================================================================
 
 In this chapter, we will explore how to recognize and overcome procrastination, which is a common problem that can negatively impact an employee's productivity, efficiency, and job satisfaction.
 

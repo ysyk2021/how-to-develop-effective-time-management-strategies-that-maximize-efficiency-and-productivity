@@ -1,5 +1,3 @@
-How to Prioritize Tasks
-======================================================
 
 In this chapter, we will explore effective strategies for prioritizing tasks, which is crucial in analyzing time use and developing effective time management strategies.
 

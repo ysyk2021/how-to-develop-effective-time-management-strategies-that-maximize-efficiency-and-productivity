@@ -1,5 +1,3 @@
-Delegation Strategies
-========================================================
 
 In this chapter, we will explore effective delegation strategies that can help individuals save time and increase productivity in the workplace.
 

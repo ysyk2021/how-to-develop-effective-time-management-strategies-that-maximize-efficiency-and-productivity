@@ -1,5 +1,3 @@
-Tips for Creating Effective To-Do Lists
-==================================================================================
 
 To-do lists are an essential tool for effective time management. They provide a clear overview of tasks that need to be completed and help individuals prioritize their work. However, not all to-do lists are created equal. In this chapter, we will discuss the importance of creating effective to-do lists and provide tips for creating them.
 

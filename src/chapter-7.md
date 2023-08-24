@@ -1,5 +1,3 @@
-Chapter 7: Managing Interruptions and Distractions
-==================================================
 
 In this chapter, we will explore effective strategies for managing interruptions and distractions, which can significantly impact productivity and time management in the workplace.
 

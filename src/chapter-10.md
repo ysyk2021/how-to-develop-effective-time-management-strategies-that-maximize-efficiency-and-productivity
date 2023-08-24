@@ -1,5 +1,3 @@
-Chapter 10: Balancing Work and Life
-===================================
 
 In this chapter, we will explore the importance of achieving a work-life balance, as well as strategies and tips for reducing stress and maintaining overall well-being.
 

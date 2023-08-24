@@ -1,5 +1,3 @@
-Managing Meetings and Phone Calls
-==============================================================================
 
 In this chapter, we will explore effective strategies for managing meetings and phone calls to improve productivity and efficiency in the workplace.
 

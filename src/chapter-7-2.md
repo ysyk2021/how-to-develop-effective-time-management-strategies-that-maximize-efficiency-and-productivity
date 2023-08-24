@@ -1,5 +1,3 @@
-How to Minimize Interruptions and Distractions
-==================================================================================================
 
 Interruptions and distractions can have a significant impact on employee productivity and efficiency. They can come in the form of emails, phone calls, instant messages, or colleagues stopping by for a chat. In this chapter, we will explore strategies for minimizing interruptions and distractions so that employees can stay focused and complete their work more efficiently.
 
@@ -27,5 +25,4 @@ Conclusion
 ----------
 
 Interruptions and distractions are a common part of the modern work environment, but they don't have to derail your productivity. By taking steps to minimize interruptions and distractions, employees can stay focused on their work and complete tasks more efficiently. Encourage employees to turn off notifications, schedule dedicated work time, use headphones or white noise, set boundaries with coworkers, take breaks, and designate an interruption proxy when necessary. With these strategies in place, employees can overcome interruptions and distractions and achieve their goals.
-
 

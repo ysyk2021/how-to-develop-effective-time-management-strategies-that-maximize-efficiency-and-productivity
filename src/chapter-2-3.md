@@ -1,5 +1,3 @@
-How Time Management Affects Productivity
-==================================================================================
 
 In this chapter, we will explore how time management affects productivity and why effective time management is crucial for maximizing efficiency in the workplace.
 

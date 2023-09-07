@@ -23,3 +23,7 @@ This book is ideal for anyone looking to improve their time management skills an
 Whether you're a new employee or a seasoned professional, this book has something to offer. By continually evaluating and refining your approach to time management, you can achieve long-term success and fulfillment in your career.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

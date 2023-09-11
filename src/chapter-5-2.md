@@ -1,5 +1,4 @@
-Chapter: Prioritizing Tasks on the To-Do List
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effectively prioritizing tasks is a key aspect of time management that helps individuals focus their efforts on high-value activities and maximize efficiency and productivity. In this chapter, we will explore strategies for prioritizing tasks on the to-do list.
 

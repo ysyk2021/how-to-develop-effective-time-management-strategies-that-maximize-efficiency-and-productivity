@@ -1,5 +1,4 @@
-Chapter: Tips for Creating Effective To-Do Lists
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To-do lists are essential tools for effective time management that maximize efficiency and productivity. A well-crafted to-do list helps prioritize tasks, set goals, and manage time effectively. In this chapter, we will explore tips for creating effective to-do lists.
 

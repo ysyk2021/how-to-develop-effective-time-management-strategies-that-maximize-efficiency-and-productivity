@@ -1,5 +1,4 @@
-Chapter: Creating a Plan to Achieve Goals
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a well-defined plan is essential for effective time management strategies that maximize efficiency and productivity. In this chapter, we will explore the importance of goal planning and provide guidance on how employees can create a comprehensive plan to achieve their goals successfully.
 

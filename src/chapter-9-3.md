@@ -1,5 +1,4 @@
-Chapter: Managing Meetings and Phone Calls
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Meetings and phone calls are essential communication tools in any workplace. However, they can also be time-consuming and disruptive if not managed effectively. In this chapter, we will explore practical tips for managing meetings and phone calls to maximize productivity and minimize disruptions.
 

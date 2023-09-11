@@ -1,5 +1,4 @@
-Chapter: How to Prioritize Tasks
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effectively prioritizing tasks is a fundamental aspect of time management that maximizes efficiency and productivity for employees. By determining the order of importance and urgency for each task, individuals can allocate their time and resources effectively. In this chapter, we will delve into strategies for prioritizing tasks.
 

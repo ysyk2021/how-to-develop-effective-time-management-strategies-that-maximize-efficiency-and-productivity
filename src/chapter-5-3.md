@@ -1,5 +1,4 @@
-Chapter: How to Manage a Daily Task List
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Managing a daily task list is a fundamental aspect of effective time management. By organizing and prioritizing tasks, individuals can optimize their productivity and ensure that important responsibilities are completed efficiently. In this chapter, we will explore practical strategies for effectively managing a daily task list.
 

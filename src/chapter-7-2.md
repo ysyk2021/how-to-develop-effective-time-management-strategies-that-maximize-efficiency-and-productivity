@@ -1,5 +1,4 @@
-Chapter: Minimizing Interruptions and Distractions
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Interruptions and distractions can impede productivity and hinder effective time management in the workplace. Developing strategies to minimize these disruptions is vital for maximizing efficiency and productivity. In this chapter, we will explore techniques to reduce interruptions and distractions.
 

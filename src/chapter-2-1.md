@@ -1,5 +1,4 @@
-Chapter: Definition of Time Management
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Time management is a fundamental skill that enables individuals to utilize their time effectively and efficiently. In this chapter, we will discuss the definition of time management and its significance in maximizing efficiency and productivity for employees.
 

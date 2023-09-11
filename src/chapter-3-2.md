@@ -1,5 +1,4 @@
-Chapter: Tracking Time Use
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective time management requires understanding how time is utilized throughout the day. By tracking and analyzing time use, employees can identify inefficiencies, eliminate time-wasting activities, and optimize their productivity. In this chapter, we will explore strategies for tracking time use effectively.
 

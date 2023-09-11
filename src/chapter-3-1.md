@@ -1,5 +1,4 @@
-Chapter: Identifying Time Wasters
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 One of the key aspects of effective time management is identifying and eliminating time-wasting activities. Time wasters not only consume valuable time but also hinder productivity and efficiency. In this chapter, we will explore strategies for identifying common time wasters and how to overcome them.
 

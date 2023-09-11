@@ -1,5 +1,4 @@
-Chapter: Types of Interruptions and Distractions
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Interruptions and distractions can negatively impact productivity and hinder effective time management. Understanding the types of interruptions and distractions that can occur in the workplace can help individuals develop effective strategies for managing them. In this chapter, we will explore common types of interruptions and distractions and how to address them.
 

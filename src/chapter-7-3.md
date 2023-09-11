@@ -1,5 +1,4 @@
-Chapter: Techniques for Handling Unexpected Interruptions
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Unexpected interruptions can disrupt workflow and derail productivity, but being prepared to handle them effectively is crucial for effective time management. In this chapter, we will explore techniques for managing and minimizing the impact of unexpected interruptions.
 

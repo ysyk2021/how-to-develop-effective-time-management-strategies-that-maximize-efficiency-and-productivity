@@ -1,5 +1,4 @@
-Chapter: Defining SMART Goals
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting clear and actionable goals is essential for effective time management strategies that maximize efficiency and productivity. In this chapter, we will explore the concept of SMART goals and provide guidance on how employees can define and utilize them to enhance their work performance.
 

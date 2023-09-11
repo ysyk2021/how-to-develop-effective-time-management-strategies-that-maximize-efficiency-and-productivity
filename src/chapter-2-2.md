@@ -1,5 +1,4 @@
-Chapter: Common Misconceptions about Time Management
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Time management is often misunderstood, leading to various misconceptions about its principles and practices. In this chapter, we will explore some of the common misconceptions surrounding time management and provide clarity on the realities of effective time management strategies.
 
